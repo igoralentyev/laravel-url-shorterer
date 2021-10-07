@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    color: #fff;
+}
+
+.main {
+    height: 100vh;
+    background-color: #252a37;
+}
+
+.form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.makeShort {
+    color: #000;
+    background-color: #a10101;
+}
+
+.success {
+    display: none;
+}
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.note {
+    color: grey;
+    font-size: 12px;
+}
